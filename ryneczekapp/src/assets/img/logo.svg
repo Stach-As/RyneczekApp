@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   width="155"
-   height="41"
-   viewBox="0 0 155 41"
-   fill="none"
+   width="32mm"
+   height="16mm"
+   viewBox="0 0 32 16"
    version="1.1"
-   id="svg4"
-   sodipodi:docname="logo.svg"
+   id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs4" />
   <sodipodi:namedview
-     id="namedview4"
+     id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -23,25 +23,76 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="4.1970209"
-     inkscape:cx="77.674143"
-     inkscape:cy="-2.7400388"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.0970529"
+     inkscape:cx="55.161602"
+     inkscape:cy="31.852164"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1672"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
-  <text
-     xml:space="preserve"
-     style="font-size:49.6488px;line-height:0.9;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0.080949px;word-spacing:0.0323795px;text-anchor:middle;fill:none;stroke:#ff0000;stroke-width:1.96481;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-     x="82.894081"
-     y="36.784603"
-     id="text4"
-     transform="scale(0.92814213,1.0774212)"><tspan
-       sodipodi:role="line"
-       id="tspan4"
-       x="82.934563"
-       y="36.784603"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:none;stroke:#ff0000;stroke-width:1.96481;stroke-dasharray:none">HAD3S</tspan></text>
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#00ff21;stop-opacity:0.98148149;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="0.011713235"
+       y1="7.6475148"
+       x2="33.463214"
+       y2="7.6475148"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="0.011625228"
+       y1="7.6475148"
+       x2="33.463302"
+       y2="7.6475148"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:15.5426px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0.0253412px;word-spacing:0.0101365px;text-anchor:middle;fill:none;stroke:url(#linearGradient4);stroke-width:0.50700001;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stroke-dasharray:none"
+       x="16.376978"
+       y="13.210369"
+       id="text1"
+       transform="scale(0.95593939,1.0460914)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.50700001;fill:none;stroke-dasharray:none;stroke:url(#linearGradient4)"
+         x="16.38965"
+         y="13.210369">LIDL</tspan></text>
+  </g>
 </svg>

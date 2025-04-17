@@ -1,12 +1,12 @@
 import { useState, useEffect } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import { ArrowRightCircle } from 'react-bootstrap-icons';
-import headerImg from '../assets/img/awatar.svg';
+import headerImg from '../assets/img/ryneczekLogo.png';
 
 export const Banner = () => {
     const [loopNum, setLoopNum] = useState(0);
     const [isDeleting, setIsDeleting] = useState(false);
-    const toRotate = ["Web Developer", "Grafik", "Artysta"];
+    const toRotate = ["Brokulem", "Truskawka", "Ananasem", "Borowka"];
     const [text, setText] = useState('');
     const [delta, setDelta] = useState(300 - Math.random() * 100);
     const period = 2500;
@@ -47,10 +47,10 @@ export const Banner = () => {
             <Container>
                 <Row className="align-items-center">
                     <Col xs={12} md={6} xl={7}>
-                        <span className="tagLine">Witaj W moim portfolio</span>
-                        <h1>{'Witaj, jestem Hades!!!!  :'}<span className="wrap">{text}</span></h1>
-                        <p>Jestem artystyczna dusza uwiezeiona w ciele smiertelnika o nie zmienia faktu iz staram sie aby tworzyc cos z czego bede mogl byc dumny. Tworze grafiki, zabrudzam kartki grafite oraz pisze randomowy kod w zaleznosci od wlasnych potrzeb.</p>
-                        <button onCLick={() => console.log("Odeslano od linka")}>Zgadajmy sie! <ArrowRightCircle size={25} /></button>
+                        <span className="tagLine">Witaj na stronie Ryneczka Wedrowca !</span>
+                        <h1>{'Dolacz do nas dzis i zostan : '}<span className="wrap">{text}</span></h1>
+                        <p>Jestesmy klanem gromadzacy msie wokol looterShottera : Destiny 2, jednakze znamy sie jak kumple i czesto rowniez klocimy sie jak tacy. Oferujemy roznorodnych czlonok, aktywnych graczy i duzo, duzo zabawy</p>
+                        <button onCLick={() => console.log("Odeslano od linka")}>Zajrzyj do nas! <ArrowRightCircle size={25} /></button>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
                         <img src={headerImg} alt='Header Img' />
